@@ -102,6 +102,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 ### Containers
 
 - [Kubernetes Basics - Interactive](http://kubernetes.io/docs/tutorials/kubernetes-basics/) Official self-paced walkthrough tutorial
+- [Kubernetes Tutorial for Beginners](https://spacelift.io/blog/kubernetes-tutorial) Basic Concepts and Examples
 
 ### Go
 
