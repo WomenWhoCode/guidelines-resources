@@ -87,13 +87,14 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [5 more ways to start learning how to code right now for free](http://thenextweb.com/dd/2012/02/02/5-more-ways-to-start-learning-how-to-code-right-now-for-free/)
 - [5 Ways To Learn Code From The Comfort Of Your Own Browser | TechCrunch](http://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser)
 - [Also, Why I'm learning to code](http://also.roybahat.com/post/11574823708/why-im-learning-to-code)
+- [Blackbird School](https://blackbird.school) - A web-based platform where you can learn to code from scratch. *Everyone* should be able to learn coding. Built to teach all, regardless of gender, ethnicity, or background. Paid with 30-day free trial, doesn't turn people away for lack of funds.
 - [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
 - [CS50x: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 - [DevDocs](http://devdocs.io)
-- [Free Code Camp](https://www.freecodecamp.com/)
+- [Free Code Camp](https://www.freecodecamp.com/) - Learn to code at home. Build projects. Earn certifications.
 - [Google Developers - Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/?hl=en)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
-- [learn to code the hard way](http://cli.learncodethehardway.org/)
+- [Learn Code the Hard Way](https://learncodethehardway.org/) - A book series about learning various programming languages.
 - [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)&nbsp;-&nbsp;[http://it-ebooks.info/<wbr>book/36/](http://it-ebooks.info/book/36/)
 - [Programr | Online IT Lab](http://www.programr.com/)
 - [Stypi - good for remote pairing](http://www.stypi.com/yy0ygna2)
