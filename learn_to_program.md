@@ -80,7 +80,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
   - [applications](http://www.stroustrup.com/applications.html) written in C++
   - some [C++ compilers](http://www.stroustrup.com/compilers.html)
 - YouTube playlists of CppCon conference talks:  https://www.youtube.com/user/CppCon
-
+- [Scaler Topics - C++ For Beginners](https://www.scaler.com/topics/cpp)
 ### General Programming
 
 - [$ cheat browse http://cheat.errtheblog.com](http://cheat.errtheblog.com/)
