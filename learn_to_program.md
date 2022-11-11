@@ -206,7 +206,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [Real Python](https://realpython.com) - learn python programming and web development through hands-on, interesting examples that are useful and fun!
 - [Full Stack Python](https://www.fullstackpython.com/) - explains Python web development concepts in plain language terms and links to the best tutorials for those topics
 - Flask - a lightweight Python web framework
-  - http://flask.pocoo.org/docs/0.10/tutorial/
+  - [Flask Documentation](http://flask.pocoo.org)
   - [Discover Flask](http://discoverflask.com) - full stack web development with flask
   - [Flaskr Tutorial](https://github.com/mjhea0/flaskr-tdd) - Intro to Flask, Test Driven Development, and jQuery
 - [Merscythe: Adventures With the Codue] (http://www.speltechnologies.com) - An adventure story-based game for teaching Python programming to middle and high school students. Designed for accessibility and customizability.
