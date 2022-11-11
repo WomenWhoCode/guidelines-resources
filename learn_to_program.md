@@ -382,6 +382,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [Khan Academy](http://www.khanacademy.org/#computer-science)
 - [Learn Web Design, Web Development, and iOS Development](http://teamtreehouse.com/)
 - [Codecademy.com](http://www.codecademy.com/#!/exercise/0)
+- [SheCodes](https://www.shecodes.io/) - SheCodes is a non-profit organization that creates coding workshops for women. 
 - [Stanford School of Engineering](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
 - [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/)
 - [edX](https://www.edx.org/)
