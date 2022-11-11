@@ -131,6 +131,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [BuildingWebApps.com](http://www.buildingwebapps.com/)
 - [CSS Diner](http://flukeout.github.io/) - game to learn CSS selectors
 - [Flexbox Froggy](http://flexboxfroggy.com/) - game to learn how to use flexbox
+- [Flexbox pattern cheatsheet](https://flexbox-pattern-cheatsheet.kevinpowell.co/) - A useful layout cheatsheet for those who are fairly new to Flexbox
 - [HTML5 Course from W3C](https://www.edx.org/xseries/html5-w3c)
 - [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
 - [Udemy: Learn the Foundations of HTML](https://blog.udemy.com/learn-html-learn-the-foundations-of-html/)
