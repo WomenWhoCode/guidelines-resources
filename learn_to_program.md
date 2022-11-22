@@ -179,6 +179,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [CodePen](http://codepen.io/) - scope out cool ideas for html/css/js projects
 - [Free Code Camp](http://www.freecodecamp.com/)
 - [Babel's ECMAScript 6 tutorial](http://babeljs.io/docs/learn-es2015/)
+- [JavaScript Tutorial](https://www.scaler.com/topics/javascript/)
 - [W3Schools.com](http://www.w3schools.com/js/)
 - [Tutorials Point](http://www.tutorialspoint.com/javascript/)
 - [Square's Intro to D3.JS](http://square.github.io/intro-to-d3/)
