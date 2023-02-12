@@ -376,6 +376,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [Stack Overflow](http://stackoverflow.com/)
 - [CodeEval - Evaluations Made Easy](http://codeeval.com/)
 - [Command-line Power User](https://commandlinepoweruser.com/) - Free course to learn command line workflows.
+- [UI and UX design](https://github.com/hendurhance/ui-ux) - Beginner's guide to start UI & UX design
 
 ### Schools
 
@@ -385,3 +386,4 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [Stanford School of Engineering](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
 - [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/)
 - [edX](https://www.edx.org/)
+
