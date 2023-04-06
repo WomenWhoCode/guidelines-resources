@@ -154,7 +154,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 
 ### Java
 
-- [Head First Java](http://www.headfirstlabs.com/books/hfjava/)
+- [Head First Java](https://www.oreilly.com/library/view/head-first-java/0596009208/)
 - [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 - [CodingBat Java practice problems](http://codingbat.com/java)
 - Java Style Guidelines
@@ -240,6 +240,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [Pragmatic studio Rails course $$](http://pragmaticstudio.com/rails)
 - [One month Rails $$](https://onemonth.com/courses/one-month-rails)
 - [The Odin Project: Learn Web Development for Free using Ruby on Rails](http://www.theodinproject.com)
+- [Ruby Tutorial For Beginners](https://www.rubyguides.com/ruby-tutorial/)
 
 ### Scratch
 
@@ -307,7 +308,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [Git for Non-Developers](http://anitacheng.com/git-for-non-developers)
 - [Git-it - intro Git/Github tutorial](https://github.com/jlord/git-it) (includes Traditional Chinese version, requires local install)
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) (interactive tutorial)
-- [GitHub - Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) (pdf)
+- [GitHub - Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) (pdf)
 - [Github - Pull requests](https://training.github.com/classnotes/2014-05-28-free-class-pull-requests)
 - [Understanding Git Concepts](http://www.sbf5.com/~cduan/technical/git/)
 - [Good Commit Messages](http://chris.beams.io/posts/git-commit/)
