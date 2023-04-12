@@ -15,6 +15,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [Algorithms](#algorithms)
 - [Android](#android)
 - [C/C++](#cc)
+- [C#](#c)
 - [Containers](#containers)
 - [Data](#data)
 - [Docker](#docker)
@@ -80,6 +81,16 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
   - [applications](http://www.stroustrup.com/applications.html) written in C++
   - some [C++ compilers](http://www.stroustrup.com/compilers.html)
 - YouTube playlists of CppCon conference talks:  https://www.youtube.com/user/CppCon
+
+### C#
+- [C# Guide](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [In-Browser Tutorial (hands-on)](https://www.microsoft.com/net/learn/in-browser-tutorial/1)
+- MVA - Microsoft Virtual Academy courses:
+  - [C# Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169)
+  - [Programming in C# Jump Start](https://mva.microsoft.com/en-US/training-courses/programming-in-c-jump-start-14254)
+- [Get started with C# and ASP.NET in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/tutorial-csharp-aspnet-core)
+- [Paths C#](https://www.pluralsight.com/paths/csharp) - paid courses
+- [Forum](https://social.msdn.microsoft.com/Forums/en-US/home?forum=csharpgeneral&filter=alltypes&sort=lastpostdesc)
 
 ### General Programming
 
