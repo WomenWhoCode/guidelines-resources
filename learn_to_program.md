@@ -59,7 +59,11 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [Android Programming](https://www.bignerdranch.com/we-write/android-programming/)
 - [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
 - [Head First Android Development](http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184)
+- [Learn Python the Hard Way 3](https://learnpythonthehardway.org/book/) is a beginner's guide to python. The first 8 chapters and exercises are free to read on the author's website. Beginner level.
+- [Natural Language Processing with Python](http://www.nltk.org/book/) is a free instructional manual on using Python3 with NLTK3. Beginner through advanced.
+- [Professional Javascript for Web Developers](https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf) is a manual intended for experience web developers and/or those who are familiar with javascript.
 - [Programming Android](http://www.amazon.com/dp/1449389694?tag=top-books-cs-20)
+- [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) is the first in a series of javascript texts by Kyle Simpson. Free. Beginner level.
 
 ### C/C++
 
@@ -84,6 +88,10 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 ### General Programming
 
 - [$ cheat browse http://cheat.errtheblog.com](http://cheat.errtheblog.com/)
+- [1 Million Women to Tech](https://1millionwomentotech.com/) has online coding classes that start a few times per year.
+  - [Summer of Code](https://github.com/1millionwomentotech/toolkitten) is a 12 week introduction to python, nltk, javascript, and more. The syllabus is posted on github along with additional resources.
+  - Winter of Data course begins shortly after the Summer of Code ends.
+  - This resource has a free (DIY) version and a paid (certification) version. The paid version allows you to watch/participate in live classes and Q&A, and apply for certification, plus it supports the organization in offering the same course to more students at no cost. The free version allows you to view the classes at your own speed but will not result in a certificate.
 - [5 more ways to start learning how to code right now for free](http://thenextweb.com/dd/2012/02/02/5-more-ways-to-start-learning-how-to-code-right-now-for-free/)
 - [5 Ways To Learn Code From The Comfort Of Your Own Browser | TechCrunch](http://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser)
 - [Also, Why I'm learning to code](http://also.roybahat.com/post/11574823708/why-im-learning-to-code)
@@ -91,6 +99,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [CS50x: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 - [DevDocs](http://devdocs.io)
 - [Free Code Camp](https://www.freecodecamp.com/)
+- [Girls in Tech Global Classroom](http://globalclassroom.girlsintech.org/) is an online learning program offering tech related courses, such as 3-D Tinkercad design, to girls and women, at no cost.
 - [Google Developers - Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/?hl=en)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [learn to code the hard way](http://cli.learncodethehardway.org/)
