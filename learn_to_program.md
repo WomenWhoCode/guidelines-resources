@@ -32,6 +32,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [Misc](#misc)
 - [PHP](#php)
 - [Python](#python)
+- [R](#r)
 - [Ruby](#ruby)
 - [Schools](#schools)
 - [Scratch](#scratch)
@@ -216,6 +217,11 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
     - SciPy Conference videos:  [SciPy 2016](https://www.youtube.com/watch?v=OB1reY6IX-o&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6), [EuroSciPy 2015](https://www.youtube.com/watch?v=q9E0csBVcwQ&list=PLYx7XA2nY5GeQCCugyvtnHMVLdhYlrRxH), [SciPy 2015](https://www.youtube.com/watch?v=xAoljeRJ3lU&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu), [EuroSciPy 2014](https://www.youtube.com/watch?v=DObmPAtuNw0&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi), [SciPy 2014](https://www.youtube.com/watch?v=vWkgEddb4-A&list=PLYx7XA2nY5GfuhCvStxgbynFNrxr3VFog), [SciPy 2013](https://www.youtube.com/watch?v=NOm1zA_Cats&list=PLYx7XA2nY5GeTWcUQTbXVdllyp-Ie3r-y)
       - [2015 Keynote: My Data Journey with Python](https://www.youtube.com/watch?v=kHdkFyGCxiY&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=16)
       - [2015 Keynote: State of the Tools](https://www.youtube.com/watch?v=5GlNDD7qbP4&t=26s&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=6)
+
+### R
+
+- [R for Data Science](http://r4ds.had.co.nz/)
+- [Data wrangling, exploration, and analysis with R - STAT 545](http://stat545.com/index.html)
 
 ### Ruby
 
