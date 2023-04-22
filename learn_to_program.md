@@ -164,6 +164,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html)
 - [Teaching Kids Programming](http://teachingkidsprogramming.org/) Designed to introduce kids ages 10-14 to computational thinking with logo-like TKPJava library, but fun for adult learners as well.
 - [Programming With Java: A Multimedia Approach] (http://www.jblearning.com/catalog/9781449638610/) Learn Java using programs that draw graphics and images, perform animation, read and play audio files, and display video. Suitable for beginners.
+- [JavaTPoint](https://www.javatpoint.com/) Excellent Java tutorials designed for students and working professionals with coding examples. Also a good resource for interviews because it has questions and answers from beginner level to advance level. 
 
 ### JavaScript
 
